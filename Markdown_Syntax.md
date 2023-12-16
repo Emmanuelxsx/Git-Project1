@@ -31,7 +31,7 @@ unordered list example:
 
 5. Images: To display an image
 
-   ![Alt Text](https://example.com/image.jpg)
+![Alt text](<images/git image.jpg>)
 
 6. Code: To display or code snippets
 
